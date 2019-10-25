@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "CriD"
+  s.name         = "CriDSDK"
   s.version      = "0.1.0"
   s.summary      = "Credify ID"
   s.description  = <<-DESC
